@@ -6,8 +6,6 @@ An AI-powered Document Question Answering Bot built using a **Retrieval-Augmente
 
 # Features
 
-
-
 * Upload and index PDF documents
 * Automatic document chunking
 * Semantic embeddings using HuggingFace
