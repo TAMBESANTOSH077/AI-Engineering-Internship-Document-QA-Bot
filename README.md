@@ -3,9 +3,6 @@
 An AI-powered Document Question Answering Bot built using a **Retrieval-Augmented Generation (RAG)** architecture. The application allows users to upload PDF documents, indexes their contents into a ChromaDB vector database, retrieves the most relevant information using semantic search, and generates accurate answers with **Google Gemini 2.5 Flash** while providing document source citations.
 
 ---
-
-
-
 # Features
 
 * Upload and index PDF documents
@@ -355,3 +352,4 @@ AI Engineering Internship Assignment
 # License
 
 This project is developed for educational and internship evaluation purposes.
+
