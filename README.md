@@ -14,7 +14,6 @@ An AI-powered Document Question Answering Bot built using a **Retrieval-Augmente
 * Source citations with document names and page numbers
 * Command-line chatbot interface
 ---
-
 # Tech Stack
 
 | Technology             | Version          |
