@@ -28,8 +28,6 @@ An AI-powered Document Question Answering Bot built using a **Retrieval-Augmente
 ---
 
 # Project Structure
-
-
 ```
 AI-DocumentQA-Bot/
 │
